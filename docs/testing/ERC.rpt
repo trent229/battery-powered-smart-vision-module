@@ -1,0 +1,47 @@
+ERC report (2026-07-04T23:25:03, Encoding UTF8)
+Report includes: Warnings
+
+***** Sheet /
+[lib_symbol_mismatch]: Symbol 'XIAO_ESP32S3_Sense' doesn't match copy in library 'SureSight'
+    ; warning
+    @(3.950 in, 2.950 in): Symbol U1 [XIAO_ESP32S3_Sense]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.100 in): Symbol U1 Pin 11 [TX, Unspecified, Line]
+    @(5.250 in, 3.450 in): Symbol J4 Pin 1 [Pin_1, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.250 in): Symbol U1 Pin 12 [RX, Unspecified, Line]
+    @(5.250 in, 3.550 in): Symbol J4 Pin 2 [Pin_2, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.400 in): Symbol U1 Pin 13 [GIPO, Unspecified, Line]
+    @(5.250 in, 3.650 in): Symbol J4 Pin 3 [Pin_3, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.550 in): Symbol U1 Pin 14 [GIPO_, Unspecified, Line]
+    @(5.250 in, 3.750 in): Symbol J4 Pin 4 [Pin_4, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.700 in): Symbol U1 Pin 15 [GIPO, Unspecified, Line]
+    @(5.250 in, 3.850 in): Symbol J4 Pin 5 [Pin_5, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 3.850 in): Symbol U1 Pin 16 [GIPO, Unspecified, Line]
+    @(5.250 in, 3.950 in): Symbol J4 Pin 6 [Pin_6, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 4.000 in): Symbol U1 Pin 17 [GIPO_, Unspecified, Line]
+    @(5.250 in, 4.050 in): Symbol J4 Pin 7 [Pin_7, Passive, Line]
+[pin_to_pin]: Pins of type Unspecified and Passive are connected
+    ; warning
+    @(4.450 in, 4.150 in): Symbol U1 Pin 18 [GIPO_, Unspecified, Line]
+    @(5.250 in, 4.150 in): Symbol J4 Pin 8 [Pin_8, Passive, Line]
+
+ ** ERC messages: 9  Errors 0  Warnings 9
+
+ ** Ignored checks:
+    - Global label only appears once in the schematic
+    - Four connection points are joined together
+    - SPICE model issue
+    - Assigned footprint doesn't match footprint filters
