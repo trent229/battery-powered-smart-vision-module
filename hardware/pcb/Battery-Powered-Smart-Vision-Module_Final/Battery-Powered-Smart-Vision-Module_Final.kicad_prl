@@ -2,37 +2,11 @@
   "board": {
     "active_layer": 0,
     "active_layer_preset": "",
-    "auto_track_width": false,
-    "hidden_netclasses": [
-      "Default"
-    ],
-    "hidden_nets": [
-      "",
-      "Net-(J3-Pin_1)",
-      "+3.3V",
-      "Net-(J3-Pin_3)",
-      "Net-(J3-Pin_4)",
-      "Net-(D2-K)",
-      "GND",
-      "Net-(J4-Pin_1)",
-      "Net-(J4-Pin_2)",
-      "Net-(J4-Pin_3)",
-      "Net-(J4-Pin_4)",
-      "Net-(J4-Pin_5)",
-      "Net-(J4-Pin_6)",
-      "Net-(J4-Pin_7)",
-      "Net-(J4-Pin_8)",
-      "Net-(BT1-Pin_1)",
-      "Net-(J1-Pin_1)",
-      "unconnected-(U1-5V-Pad1)",
-      "unconnected-(U1-BAT-Pad3)",
-      "unconnected-(U1-AO-Pad7)",
-      "unconnected-(U1-A1-Pad8)",
-      "unconnected-(U1-A2-Pad9)",
-      "unconnected-(U1-A3-Pad10)"
-    ],
+    "auto_track_width": true,
+    "hidden_netclasses": [],
+    "hidden_nets": [],
     "high_contrast_mode": 0,
-    "net_color_mode": 2,
+    "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
       "pads": 1.0,
@@ -59,7 +33,6 @@
       "vias",
       "footprint_text",
       "footprint_anchors",
-      "ratsnest",
       "grid",
       "footprints_front",
       "footprints_back",
@@ -79,7 +52,7 @@
       "board_outline_area",
       "ly_points"
     ],
-    "visible_layers": "00000000_00000000_55555555_57555575",
+    "visible_layers": "ffffffff_ffffffff_ffffd575_57555571",
     "zone_display_mode": 0
   },
   "git": {
@@ -89,7 +62,7 @@
     "ssh_key": ""
   },
   "meta": {
-    "filename": "battery-powered-smart-vision-module.kicad_prl",
+    "filename": "Battery-Powered-Smart-Vision-Module_Final.kicad_prl",
     "version": 5
   },
   "net_inspector_panel": {
@@ -117,18 +90,7 @@
       8,
       9
     ],
-    "col_widths": [
-      198,
-      183,
-      122,
-      83,
-      122,
-      122,
-      122,
-      87,
-      122,
-      122
-    ],
+    "col_widths": [],
     "custom_group_rules": [],
     "expanded_rows": [],
     "filter_by_net_name": true,
@@ -140,7 +102,7 @@
     "show_unconnected_nets": false,
     "show_zero_pad_nets": false,
     "sort_ascending": true,
-    "sorting_column": 0
+    "sorting_column": -1
   },
   "open_jobsets": [],
   "project": {
