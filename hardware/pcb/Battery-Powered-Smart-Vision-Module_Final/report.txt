@@ -1,0 +1,2 @@
+Updated SW_SPST from PowerSwitch to PowerSwitch1.
+Annotation complete.

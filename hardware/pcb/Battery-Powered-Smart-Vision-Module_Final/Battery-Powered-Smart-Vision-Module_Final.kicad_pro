@@ -253,7 +253,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "Revision A"
     },
     "layer_pairs": [],
     "layer_presets": [],
@@ -537,7 +537,7 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "./Battery-Powered-Smart-Vision-Module_RevA_Gerbers",
       "specctra_dsn": "",
       "vrml": ""
     },
